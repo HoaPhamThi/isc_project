@@ -1,0 +1,79 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Khẩu trang vải trắng đơn giản",
+            "image": "./img_khautrang/mask1.jpg",
+            "price": 10,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Khẩu trang 3D màu đen",
+            "image": "./img_khautrang/mask2.jpg",
+            "price": 2,
+            "category": "Featured Products"
+        },
+        {
+            "id": 4,
+            "title": "Khẩu trang N95",
+            "image": "./img_khautrang/mask3.jpeg",
+            "price": 30,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Khẩu trang 3D màu trắng",
+            "image": "./img_khautrang/mask4.jpg",
+            "price": 2,
+            "category": "Trending Products"
+        },
+        {
+            "id": 5,
+            "title": "Khẩu trang y tế màu xanh 3 lớp",
+            "image": "./img_khautrang/mask5.jpg",
+            "price": 2,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Khẩu trang vải thêu họa tiết",
+            "image": "./img_khautrang/mask6.jpg",
+            "price": 20,
+            "category": "Special Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Khẩu trang vải thêu hoa",
+            "image": "./img_khautrang/mask7.png",
+            "price": 25,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Khẩu trang y tế màu xanh 4 lớp",
+            "image": "./img_khautrang/mask8.png",
+            "price": 2,
+            "category": "Featured Products"
+        },
+        {
+            "id": 13,
+            "title": "Khẩu trang y tế màu xám 4 lớp",
+            "image": "./img_khautrang/mask9.jpg",
+            "price": 2,
+            "category": "Featured Products"
+        },
+        {
+            "id": 12,
+            "title": "Khẩu trang y tế màu đen 4 lớp",
+            "image": "./img_khautrang/mask10.png",
+            "price": 2,
+            "category": "Featured Products"
+        }
+
+
+    ]
+}
